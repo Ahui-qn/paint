@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4890395",
+      "name": "橡皮擦",
+      "font_class": "xiangpica",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "6393452",
+      "name": "直线",
+      "font_class": "zhixian",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "11528981",
+      "name": "圆角矩形 1488",
+      "font_class": "yuanjiaojuxing",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "13790181",
+      "name": "五边形",
+      "font_class": "wubianxing",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "21548714",
+      "name": "笔",
+      "font_class": "bi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "22204626",
+      "name": "圆形",
+      "font_class": "yuanxing",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "22572178",
+      "name": "直线",
+      "font_class": "zhixian1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "24021884",
+      "name": "矩形",
+      "font_class": "juxing",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}
